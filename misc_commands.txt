@@ -1,8 +1,0 @@
-source /home/anabig114214/capstone1/mysql_capstone.sql
-
-
-hdfs dfs -ls /user/anabig114214/capstone1_hdfs/data/
-hdfs dfs -ls /user/anabig114214/capstone1_hdfs/schema/
-
-rm *.avsc
-rm *.java
